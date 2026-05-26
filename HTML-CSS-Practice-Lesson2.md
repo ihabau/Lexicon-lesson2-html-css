@@ -8,7 +8,7 @@
   1. [x] **Boilerplate:** Write a full HTML5 boilerplate from memory (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
   2. [x] Headings:** Create a page using all heading levels from `<h1>` to `<h6>`.
   3. [ ] Semantic Layout:** Organize a page using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`.
-  4. **Lists:** 
+  4. **Lists:**   
      [ ] Create an **ordered list** (`<ol>`) of your top 3 goals for this year.
      [ ] Create an **unordered list** (`<ul>`) of 4 programming languages you want to learn.
   5. [ ] Hyperlinks & Images:**
@@ -20,10 +20,10 @@
   ---
   
   ## 🔍 2: Data & Interaction (Tables & Forms)
-  1. **Tables:** 
+  1. **Tables:**  
      [ ] Build a 3x3 data table with a header row (`<thead>`) and body (`<tbody>`).
      [ ] **Challenge:** Use `colspan="2"` to merge two header cells.
-  2. **Forms:** Create a registration form containing:
+  2. **Forms:** Create a registration form containing:  
      [ ] A `<label>` connected to a text `<input>` for "Username".
      [ ] A password input.
      [ ] A dropdown menu (`<select>`) with at least 3 options.
@@ -37,12 +37,12 @@
      [ ] **Type** (e.g., `h1`)
      [ ] **Class** (e.g., `.highlight`)
      [ ] **ID** (e.g., `#main-header`)
-  2. ** The Box Model:**
+  2. ** The Box Model:**  
      [ ] Create a `div` and give it a specific `width` and `height`.
      [ ] Add 20px of **padding** (internal space).
      [ ] Add 50px of **margin** (external space).
      [ ] Add a 2px solid border with `border-radius: 10px`.
-  3. ** Colors & Typography:**
+  3. ** Colors & Typography:**  
      [ ] Set a background color using a Hex code (e.g., `#f4f4f4`).
      [ ] Change the `font-family` to `sans-serif`.
      [ ] Center your text using `text-align: center`.
