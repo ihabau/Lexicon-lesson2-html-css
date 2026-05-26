@@ -10,11 +10,15 @@
 2. [x] Headings:\*\* Create a page using all heading levels from `<h1>` to `<h6>`.
 3. [x] Semantic Layout:\*\* Organize a page using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`.
 4. **Lists:**
-   [x] Create an **ordered list** (`<ol>`) of your top 3 goals for this year.
-   [x] Create an **unordered list** (`<ul>`) of 4 programming languages you want to learn.
-5. [ ] Hyperlinks & Images:\*\*
-       [ ] Create a link to `https://www.lexicon.se` that opens in a new tab.
-       [ ] Insert an image with a descriptive `alt` text.
+
+- [x] Create an **ordered list** (`<ol>`) of your top 3 goals for this year.
+- [x] Create an **unordered list** (`<ul>`) of 4 programming languages you want to learn.
+
+5. [ ] **Hyperlinks & Images:**
+
+- [ ] Create a link to `https://www.lexicon.se` that opens in a new tab.
+- [ ] Insert an image with a descriptive `alt` text.
+
 6. [ ] Formatting:\*\* Use `<strong>` for bold text and `<em>` for italics.
 7. [x] Comments:\*\* Add an HTML comment to your code explaining what a specific section does.
 
@@ -22,14 +26,18 @@
 
 ## 🔍 2: Data & Interaction (Tables & Forms)
 
-1. **Tables:**  
-   [ ] Build a 3x3 data table with a header row (`<thead>`) and body (`<tbody>`).
-   [ ] **Challenge:** Use `colspan="2"` to merge two header cells.
-2. **Forms:** Create a registration form containing:  
-   [ ] A `<label>` connected to a text `<input>` for "Username".
-   [ ] A password input.
-   [ ] A dropdown menu (`<select>`) with at least 3 options.
-   [ ] A submit `<button>`.
+1. **Tables:**
+
+- [ ] Build a 3x3 data table with a header row (`<thead>`) and body (`<tbody>`).
+- [ ] **Challenge:** Use `colspan="2"` to merge two header cells.
+
+2. **Forms:** Create a registration form containing:
+
+- [ ] A `<label>` connected to a text `<input>` for "Username".
+- [ ] A password input.
+- [ ] A dropdown menu (`<select>`) with at least 3 options.
+- [ ] A submit `<button>`.
+
 3. [ ] **Validation:** Add the `required` attribute to your email input.
 
 ---
@@ -37,18 +45,24 @@
 ## ✨ 3: Basic Styling (CSS)
 
 1. ** Selectors:** Create a CSS file and target elements by:
-   [ ] **Type** (e.g., `h1`)
-   [ ] **Class** (e.g., `.highlight`)
-   [ ] **ID** (e.g., `#main-header`)
-2. ** The Box Model:**  
-   [ ] Create a `div` and give it a specific `width` and `height`.
-   [ ] Add 20px of **padding** (internal space).
-   [ ] Add 50px of **margin** (external space).
-   [ ] Add a 2px solid border with `border-radius: 10px`.
+
+- [ ] **Type** (e.g., `h1`)
+- [ ] **Class** (e.g., `.highlight`)
+- [ ] **ID** (e.g., `#main-header`)
+
+2. ** The Box Model:**
+
+- [ ] Create a `div` and give it a specific `width` and `height`.
+- [ ] Add 20px of **padding** (internal space).
+- [ ] Add 50px of **margin** (external space).
+- [ ] Add a 2px solid border with `border-radius: 10px`.
+
 3. ** Colors & Typography:**
-   [ ] Set a background color using a Hex code (e.g., `#f4f4f4`).
-   [ ] Change the `font-family` to `sans-serif`.
-   [ ] Center your text using `text-align: center`.
+
+- [ ] Set a background color using a Hex code (e.g., `#f4f4f4`).
+- [ ] Change the `font-family` to `sans-serif`.
+- [ ] Center your text using `text-align: center`.
+
 4. [ ] **Box Sizing:** Apply `box-sizing: border-box` to all elements using the universal selector (`*`).
 
 ---
