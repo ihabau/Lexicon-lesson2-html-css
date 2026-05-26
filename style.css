@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+nav {
+  background-color: #f4f4f4;
+}
+
+#popup {
+  margin: 50px;
+  padding: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+footer {
+  margin: 0;
+  background-color: grey;
+  margin: 2em;
+  padding: 2em;
+  border-style: solid;
+  border-radius: 1em;
+}
+
+footer a img {
+  display: flex;
+  justify-self: flex-end;
+}
+
+table,
+th {
+  border-style: solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr,
+td {
+  border-bottom: 2px solid black;
+}
+
+td {
+  border-right: 2px solid black;
+}
+
+.tableResult {
+  text-align: right;
+}
+
+.loginBTN {
+  display: flex;
+  justify-self: flex-end;
+}

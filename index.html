@@ -25,6 +25,7 @@
         <a href="">Projects</a>
         <a href="">References</a>
         <a href="">About</a>
+        <a class="loginBTN" href="">Login</a>
         <aside>
           <search>
             <form action="/search-results-page">
@@ -43,6 +44,46 @@
 
     <!-- main site code -->
     <main>
+      <!-- login form -->
+      <section>
+        <div id="popup" class="login">
+          <form action="">
+            <label for="">Name</label>
+            <input type="name" />
+            <label for="">Password</label>
+            <input type="password" />
+            <button type="">Login</button>
+            <a href="">Register</a>
+          </form>
+        </div>
+
+        <div id="popup" class="register">
+          <form action="">
+            <label for="">Name</label>
+            <input type="text" />
+            <label for="">Email Address</label><input type="text" required />
+            <label for="">Password</label>
+            <input type="text" />
+            <p>Gender</p>
+            <input type="radio" name="gender" value="male" />
+            <input type="radio" name="gender" value="Female" />
+
+            <label for="country">Country:</label>
+            <select id="country" name="user_country">
+              <option value="sweden">Sweden</option>
+              <option value="usa">USA</option>
+              <option value="uk">UK</option>
+              <option value="iq">irak</option>
+            </select>
+
+            <label for="msg">Message:</label>
+            <textarea id="msg" name="user_message" rows="4"></textarea>
+
+            <button type="submit">Register</button>
+          </form>
+        </div>
+      </section>
+
       <!-- section 1 -->
       <section>
         <h2>Goals!!</h2>
@@ -61,14 +102,53 @@
       </section>
 
       <!-- section 2 -->
-      <section></section>
+      <section>
+        <strong>Lorem ipsum dolor sit amet.</strong>
+        <em>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto,
+          adipisci earum! Dignissimos fugit nobis tempore accusantium odit
+          molestias quisquam quasi.
+        </em>
+        <table>
+          <tr>
+            <th>index 1</th>
+            <th>index 2</th>
+            <th>index 3</th>
+          </tr>
+          <tbody>
+            <tr>
+              <td>value 1</td>
+              <td>value 2</td>
+              <td>value 3</td>
+            </tr>
+            <tr>
+              <td>value A</td>
+              <td>value B</td>
+              <td>value C</td>
+            </tr>
+            <tr>
+              <td><strong>result</strong></td>
+              <td class="tableResult" colspan="2">value X</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
 
       <!-- section 3 -->
       <section></section>
     </main>
 
     <!-- footer section last part! -->
-    <footer></footer>
+    <footer>
+      <a
+        href="https://lexicongruppen.se/media/wi5hphtd/lexicon-logo.svg
+"
+        ><img
+          src="https://lexicongruppen.se/media/wi5hphtd/lexicon-logo.svg
+"
+          alt=""
+      /></a>
+    </footer>
   </body>
 
   <!--script loading -->
