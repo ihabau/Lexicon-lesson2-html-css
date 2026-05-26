@@ -9,7 +9,7 @@
 1. [x] **Boilerplate:** Write a full HTML5 boilerplate from memory (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
 2. [x] Headings:\*\* Create a page using all heading levels from `<h1>` to `<h6>`.
 3. [x] Semantic Layout:\*\* Organize a page using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`.
-4. **Lists:**  
+4. **Lists:**
    [x] Create an **ordered list** (`<ol>`) of your top 3 goals for this year.
    [x] Create an **unordered list** (`<ul>`) of 4 programming languages you want to learn.
 5. [ ] Hyperlinks & Images:\*\*
