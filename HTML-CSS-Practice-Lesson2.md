@@ -9,8 +9,8 @@
   2. [x] Headings:** Create a page using all heading levels from `<h1>` to `<h6>`.
   3. [ ] Semantic Layout:** Organize a page using `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, and `<footer>`.
   4. **Lists:**   
-   [ ] Create an **ordered list** (`<ol>`) of your top 3 goals for this year.
-     [ ] Create an **unordered list** (`<ul>`) of 4 programming languages you want to learn.
+  [ ] Create an **ordered list** (`<ol>`) of your top 3 goals for this year.
+  [ ] Create an **unordered list** (`<ul>`) of 4 programming languages you want to learn.
   5. [ ] Hyperlinks & Images:**
      [ ] Create a link to `https://www.lexicon.se` that opens in a new tab.
      [ ] Insert an image with a descriptive `alt` text.
