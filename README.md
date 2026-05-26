@@ -1,3 +1,6 @@
-\*\* Lexicon
+Workshop Github lesson 2.  
+My first project with lexicon.
 
-- Lesson 2 html and css
+## 🗺️ Project Roadmap
+
+See our active [To-Do List](./lesson2.md) for upcoming features and task tracking.
